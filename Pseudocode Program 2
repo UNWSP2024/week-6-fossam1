@@ -1,0 +1,8 @@
+# Samuel Foss
+# Pseudocode program 2
+# 10/11/2024
+#
+# Recieve total sales for the month
+# Multiply total sales for the month by county sales tax
+# Mulitply total sales for the month by state sales tax
+# Display total sales tax
